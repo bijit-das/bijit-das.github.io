@@ -16,6 +16,4 @@ When I am not being serious, I paint, run, and debate for the [EHESS FDA team](h
 - **Policy Design, Implementation and Evaluation** 
 - **Indian Politics and Identity**
 
-{% include_relative _includes/publications.md %}
-
 {% include_relative _includes/services.md %}
