@@ -19,5 +19,3 @@ When I am not being serious, I paint, run, and debate for the [EHESS FDA team](h
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
-
-{% include_relative _includes/projects.md %}
