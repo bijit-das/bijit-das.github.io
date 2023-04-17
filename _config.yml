@@ -1,22 +1,22 @@
 # Basic Information 
-title: Lucas Warwar
-position: pre-doc researcher
-affiliation: Bocconi University
-email: lucas.warwar (at) gmail (dot) com
+title: Bijit Das
+position: Master, Études Politiques
+affiliation: EHESS
+email: bijit.das (at) ehess (dot) fr
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: lucas warwar
-description: Lucas Warwar is a PhD student in economics at .
-canonical: https://lucaswarwar.github.io/
+keywords: bijit das
+description: Bijit Das is a masters student at EHESS .
+canonical: https://bijitdasgithub.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=MNxOQ6wAAAAJ&hl=en-US&oi=ao
+#google_scholar: https://scholar.google.com/citations?user=MNxOQ6wAAAAJ&hl=en-US&oi=ao
 cv_link: assets/files/cv.pdf
-github_link: https://github.com/lucaswarwar
-#linkedin: https://www.linkedin.com/LucasWarwar
-twitter: https://twitter.com/LucasWarwar
+#github_link: https://github.com/bijitdasgithub
+linkedin: https://www.linkedin.com/in/bijitdas
+twitter: https://twitter.com/iambijitdas
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
