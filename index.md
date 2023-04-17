@@ -4,26 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a 25-year-old Brazilian passionate about economics. You can find my CV [here](assets/files/cv.pdf).
+I am an Indian in Paris and I am passionate about social policies.
 
-In fall 2023, I am starting a PhD in economics at **Stanford**.
+Currently, I am doing a research master's at **École des Hautes Études en Sciences Sociales**. My research is on social attachment of current and recently ex-high school students. My work is supervised by [Serge Paugam](https://www.serge-paugam.fr/). Previously, I studied Political Studies at [NCEP](https://formations.parisnanterre.fr/fr/catalogue-des-formations/licence-lmd-03/etudes-politiques-licence-KBW4N3HC.html) and **École Polytechnique**. I also worked in the growth team of [Ankorstore](https://www.ankorstore.com/) and as a business analyst at [Ayolab](https://www.ayolab.com/). 
 
-Currently, I am a pre-doc researcher at the [CLEAN Unit](https://clean.unibocconi.eu/) at **Bocconi University**. Previously, I completed an MSc in Economics at [PIMES/UFPE](https://sites.google.com/view/pimes-english/main) and worked on the [Access to Oportunities](https://www.ipea.gov.br/acessooportunidades/en/) project at **Ipea**. I am also a member of the [GAPPE](https://www.gappe.org/) research group and work as a consultant for the **World Bank**. 
-
-I swim, bike, and run for fun.
+When I am not being serious, I paint, run, and debate for the [EHESS FDA team](https://www.ehess.fr/fr/vie-%C3%A9tudiante/french-debating-association-tournament-bonne-chance-%C3%A9tudiantes-et-%C3%A9tudiants). 
 
 ## Research Interests
 
-- **Labor Markets:** inequality, informality, mobility, human capital
-- **Public Welfare:** social safety net, taxation, redistribution
-- **Political Economy:** corruption, public sector's productivity, paternalism
+- **Inequality and Social Mobility** 
+- **Policy Design, Implementation and Evaluation** 
+- **Indian Politics and Identity**
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
 
-## News
-
-- **[Apr. 2023]** In fall 2023, I will join **Stanford**'s Department of Economics as a PhD student
-- **[Mar. 2023]** New joint project w/ **World Bank**: *Intergenerational Mobility in Northeastern Brazil*
-- **[Sep. 2022]** New WP: *Intergenerational Mobility in the Land of Inequality*
+{% include_relative _includes/projects.md %}
