@@ -6,8 +6,8 @@ email: bijit.das (at) ehess (dot) fr
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: bijit das
-description: Bijit Das is a masters student at EHESS .
+keywords: bijit das, attachment, social mobility, social policy, quantitative sociology 
+description: Bijit Das is an incoming PhD student at EHESS .
 canonical: https://bijit-das.github.io/
 
 # Links 
@@ -17,6 +17,7 @@ canonical: https://bijit-das.github.io/
 #github_link: https://github.com/bijit-das
 linkedin: https://www.linkedin.com/in/bijitdas
 twitter: https://twitter.com/iambijitdas
+bluesky: https://bsky.app/profile/bijitdas.bsky.social
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
